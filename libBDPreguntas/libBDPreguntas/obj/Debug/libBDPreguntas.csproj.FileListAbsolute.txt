@@ -1,0 +1,5 @@
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDPreguntas\libBDPreguntas\bin\Debug\libBDPreguntas.dll
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDPreguntas\libBDPreguntas\bin\Debug\libBDPreguntas.pdb
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDPreguntas\libBDPreguntas\obj\Debug\libBDPreguntas.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDPreguntas\libBDPreguntas\obj\Debug\libBDPreguntas.dll
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDPreguntas\libBDPreguntas\obj\Debug\libBDPreguntas.pdb

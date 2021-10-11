@@ -1,0 +1,25 @@
+1|1|¿Cómo se llama la centésima parte de la cifra?|Porciento|pequeño cambio|Ahorros|Propina|Porciento
+2|1|¿Quién interpretó el papel principal en 'Cisne Negro'?|Natalie Portman|Kate winslet|Charlize Theron|Meryl Streep|Natalie Portman
+3|1|¿Qué adormeció a Blancanieves?|Pera|Piña|Manzana|Cancion de cuna|Manzana
+4|1|¿Dónde puedes encontrar el puente Golden Gate?|San Francisco|Miami|New York|Chicago|San Francisco
+5|1|¿En qué continente esta ubicado España?|Africa|Europa|Sudamérica|Asia|Europa
+6|2|¿Cómo se llama el último libro de la biblia?|Apocalipsis|Éxodo|Zacarías|Malaquías|Apocalipsis
+7|2|¿Quién pintó el techo de la capilla sixtina?|Leonardo Da Vinci|Rafael|Miguel Ángel|Bramantino|Miguel Ángel
+8|2|¿Qué mueve el director de una orquesta sinfónica dirigiendo la interpretación?|Puntero|Batuta|Puños|Vírgula|Batuta
+9|2|¿Cómo se llama el código de signos condicionales y notas de un mapa?|Tadición|Cuento de hadas|Leyenda|Mito|Leyenda
+10|2|¿Cómo se llaman las sustancias desinfectantes?|Antihistamínicos|Antisépticos|Antipireticos|Tranquilizantes|Antisépticos
+11|3|¿En qué Barco llego Cristobla Colon a America?|Santa Kaziulia|La niña|La Santa María|a pinta|La Santa María
+12|3|¿A qué elemento quimico pertenece el simbolo Hg?|Argón|Mercurio|Hidrógeno|Coro|Mercurio
+13|3|¿En qué guerra falleció la cantidad más grande de americanos?|Pérsica|primera guerra mundial|Civil|Segunda guerra mundial|Civil
+14|3|¿Quién pintó 'El bebedor de ajenjo'?|Pablo picasso|Vincent Van Gogh|Pierre-Auguste Renoir|Willard metcalf|Pablo picasso
+15|3|¿Uno de los primeros proyectosmusicales de  James Helfield se llamó:?|Metallica|Megadeth|Obsession|Opeth|Obsession
+16|4|¿Cuál de estos dictadores reinó durante menos tiempo?|Salazar|Franco|Stalin|Francois Duvalier|Francois Duvalier
+17|4|¿Cuál es la capital de Suecia?|Berna|Estocolmo|Praga|Viena|Estocolmo
+18|4|¿Quién es el artista que pintó el Guernica?|Salvador|Johannes Vermeer|Sandro Boticelli|Pablo picasso|Pablo picasso
+19|4|¿En qué isla nació Napoleon Bonaparte?|Córcega|Vasilievka|Sakhalín|Desgracia|Córcega
+20|4|¿Qué persona dela mitología griga fue el primero en secuestrar a Helena de Troya?|Ulises|París|Teseo|Perseo|Teseo
+21|5|¿Quién fue el primer ministro mas duradero de Gran Bretaña en el siglo 20?|Winston Churchill|Margaret Tetcher|Harold MacMillan|James MCdonald|Margaret Tetcher
+22|5|¿Qué mineral tiene como base solo el sílice y el agua?|Cristal de roca|Asteria|Topacio|Diamante|Asteria
+23|5|¿Cómo se llama la estación sovietica que orbita en el espacio?|ISS|ESA|EEI|MIR|MIR
+24|5|¿En Qué País Está Registrada la cantidad más grande de coches 'Rolls-Royce'?|Estados Unidos|Inglaterra|Hong Kong|Rusia|Hong Kong
+25|5|¿El personaje de la novela de cuál de estos escritores se llamaba Lovelace?|S.Richardson|A. De Musset|G. Sand|T.Gautier|S.Richardson

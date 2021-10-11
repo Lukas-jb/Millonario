@@ -1,0 +1,5 @@
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDUsuarios\libBDUsuarios\bin\Debug\libBDUsuarios.dll
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDUsuarios\libBDUsuarios\bin\Debug\libBDUsuarios.pdb
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDUsuarios\libBDUsuarios\obj\Debug\libBDUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDUsuarios\libBDUsuarios\obj\Debug\libBDUsuarios.dll
+C:\Users\lenovo\Documents\Lukas cosas\sofka\libBDUsuarios\libBDUsuarios\obj\Debug\libBDUsuarios.pdb

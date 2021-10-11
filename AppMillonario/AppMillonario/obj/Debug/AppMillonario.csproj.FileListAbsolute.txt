@@ -1,0 +1,27 @@
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\bin\Debug\AppMillonario.exe.config
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\bin\Debug\AppMillonario.exe
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\bin\Debug\AppMillonario.pdb
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\obj\Debug\AppMillonario.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\obj\Debug\AppMillonario.Form1.resources
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\obj\Debug\AppMillonario.Properties.Resources.resources
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\obj\Debug\AppMillonario.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\obj\Debug\AppMillonario.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\obj\Debug\AppMillonario.exe
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\obj\Debug\AppMillonario.pdb
+C:\Users\lenovo\source\repos\AppMillonario\AppMillonario\obj\Debug\AppMillonario.Form2.resources
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\bin\Debug\AppMillonario.exe.config
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\bin\Debug\AppMillonario.exe
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\bin\Debug\AppMillonario.pdb
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\bin\Debug\libBDPreguntas.dll
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\bin\Debug\libBDUsuarios.dll
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\bin\Debug\libBDPreguntas.pdb
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\bin\Debug\libBDUsuarios.pdb
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\obj\Debug\AppMillonario.csproj.AssemblyReference.cache
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\obj\Debug\AppMillonario.Form1.resources
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\obj\Debug\AppMillonario.frmRonda.resources
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\obj\Debug\AppMillonario.Properties.Resources.resources
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\obj\Debug\AppMillonario.csproj.GenerateResource.cache
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\obj\Debug\AppMillonario.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\obj\Debug\AppMillonario.csproj.CopyComplete
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\obj\Debug\AppMillonario.exe
+C:\Users\lenovo\Documents\Lukas cosas\sofka\AppMillonario\AppMillonario\obj\Debug\AppMillonario.pdb
